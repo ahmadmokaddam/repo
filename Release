@@ -1,0 +1,8 @@
+Origin: Ahmad Mokadam
+Label: Ahmad Mokadam Repo
+Suite: stable
+Version: 1.0
+Codename: AhmadMokaddamrepo
+Architectures: iphoneos-arm
+Components: main
+Description: Ahmad Mokadam Repo
